@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arr",
+				"array"
+			],
+			[
+				"db",
+				"db_get	CI - Active Record DB Get"
+			],
+			[
+				"class",
+				"classid"
+			],
+			[
+				"load",
+				"load_model	CI - Load Model"
+			],
+			[
+				"marks",
+				"Marksheet"
+			],
+			[
+				"Class",
+				"ClassName"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"sub",
+				"SubjectName"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"cl",
+				"classdata"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"PRIN",
+				"print_r"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"Subj",
+				"SubjectName"
+			],
+			[
+				"clas",
+				"classname"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ass",
+				"assign_subject_model"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"su",
+				"SubjectId"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"assi",
+				"assign_subjects"
+			],
+			[
+				"assign",
+				"assign"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"libra",
+				"library_src"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"ci_num",
+				"cubrid_num_rows"
+			],
+			[
+				"form",
+				"form_close	CI - Form Helper - Close"
+			],
+			[
+				"subje",
+				"subjectid"
+			],
+			[
+				"subj",
+				"subjects"
+			],
+			[
+				"sta",
+				"statuid"
+			],
+			[
+				"Subjects",
+				"Subjects"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"Subject",
+				"SubjectId"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"subjectnam",
+				"subjectname"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"che",
+				"checkstatus"
+			],
+			[
+				"ch",
+				"checkstatus"
+			],
+			[
+				"Subje",
+				"subjectname"
+			],
+			[
+				"edi",
+				"edit_subject"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"subject",
+				"subjects_model"
+			],
+			[
+				"ur",
+				"uri"
+			],
+			[
+				"_p",
+				"_POST"
+			],
+			[
+				"ed",
+				"edit_subject"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"Su",
+				"SubjectId"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"pass",
+				"passmarks"
+			],
+			[
+				"library",
+				"load_library	CI - Load Library"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"uri",
+				"uri_segment	CI - URI Segment"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sho",
+				"showWelcome"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "application/views/blank.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"initial",
+				"Snippet: CI - Assign the CodeIgniter object to a variable"
+			],
+			[
+				"load d",
+				"Snippet: CI - Load Model"
+			],
+			[
+				"constr",
+				"Snippet: CI - Class Constructor"
+			],
+			[
+				"ci",
+				"Snippet: CI - Base Model"
+			],
+			[
+				"cr",
+				"Snippet: CI - New Library"
+			],
+			[
+				"m",
+				"Snippet: CI - Base Model"
+			],
+			[
+				"mode",
+				"Snippet: CI - Base Model"
+			],
+			[
+				"cic",
+				"Snippet: CI - Base Controller"
+			],
+			[
+				"pag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: dfd"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/SMSCI/application/controllers/marksheets.php",
+		"/C/wamp/www/SMSCI/application/models/marksheets_model.php",
+		"/C/wamp/www/SMSCI/application/controllers/classes.php",
+		"/C/wamp/www/SMSCI/application/views/marksheet_view.php",
+		"/C/wamp/www/SMSCI/application/controllers/assign_subjects.php",
+		"/C/wamp/www/SMSCI/application/views/assign_subjects_view.php",
+		"/C/wamp/www/SMSCI/application/core/MY_Loader.php",
+		"/C/wamp/www/SMSCI/application/views/home_form.php",
+		"/C/wamp/www/SMSCI/application/views/classes_form.php",
+		"/C/wamp/www/SMSCI/application/views/marksheet_view",
+		"/C/wamp/www/SMSCI/application/config/config.php",
+		"/C/wamp/www/SMSCI/application/models/assign_subject_model.php",
+		"/C/wamp/www/SMSCI/application/models/subjects_model.php",
+		"/C/wamp/www/SMSCI/application/controllers/subjects.php",
+		"/C/wamp/www/SMSCI/application/views/subjects_form.php",
+		"/C/wamp/www/SMSCI/application/views/templates/footer.php",
+		"/C/wamp/www/SMSCI/application/views/templates/header.php",
+		"/C/wamp/www/SMSCI/application/controllers/assign_subject_model.php",
+		"/C/wamp/www/SMSCI/application/controllers/ajax_post_controller.php",
+		"/C/wamp/www/SMSCI/application/views/ajax_post_view.php",
+		"/C/wamp/www/SMSCI/application/config/autoload.php",
+		"/C/wamp/www/SMSCI/application/config/user_agents.php",
+		"/D/www/jquery/js/example.js",
+		"/C/wamp/www/SMSCI/system/libraries/javascript/Jquery.php",
+		"/C/wamp/www/SMSCI/application/models/classes_model.php",
+		"/C/wamp/www/SMSCI/application/views/students_registration_form.php",
+		"/C/wamp/www/SMSCI/application/views/students_profile.php",
+		"/C/wamp/www/SMSCI/application/views/insert_form.php",
+		"/C/wamp/www/SMSCI/application/views/login_form.php",
+		"/C/wamp/www/SMSCI/application/views/assign_subjets_view.php",
+		"/C/wamp/www/SMSCI/application/controllers/home.php",
+		"/C/wamp/www/SMSCI/application/controllers/students_registration.php",
+		"/C/wamp/www/SMSCI/application/views/edit_subject_form.php",
+		"/C/wamp/www/SMSCI/application/views/successpage.php",
+		"/C/wamp/www/laraveltest/app/filters.php",
+		"/C/wamp/www/laraveltest/app/controllers/HomeController.php",
+		"/C/wamp/www/laraveltest/app/models/User.php",
+		"/C/wamp/www/laraveltest/app/views/hello.php",
+		"/C/wamp/www/laraveltest/app/routes.php",
+		"/C/wamp/www/mynew/app/Http/routes.php",
+		"/C/wamp/www/laraveltest/app/controllers/BaseController.php",
+		"/C/wamp/www/mynew/app/Http/Controllers/Controller.php",
+		"/C/wamp/www/mynew/public/index.php",
+		"/C/wamp/www/SMSCI/application/controllers/insert.php",
+		"/C/wamp/www/SMSCI/application/controllers/fileupload.php",
+		"/C/wamp/www/SMSCI/application/controllers/login.php",
+		"/C/Users/dipesh/AppData/Roaming/Sublime Text 2/Packages/User/dfd.sublime-snippet",
+		"/C/wamp/www/SMSCI/SMSCI.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"you",
+			"java"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/blank.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true
+}
